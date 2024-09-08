@@ -1,6 +1,6 @@
-# RecipeHub - Recipe Sharing Platform
+# Recipe Hub - Recipe Sharing Platform
 
-RecipeHub is a platform where foodies can share their favorite recipes and discover new dishes. Connect with other food lovers, explore various cuisines, and contribute to a growing collection of delicious recipes.
+Recipe Hub is a platform where foodies can share their favorite recipes and discover new dishes. Connect with other food lovers, explore various cuisines, and contribute to a growing collection of delicious recipes.
 
 ![Tic Tac Toe Game Screenshot](public/RecipeHub.png)
 

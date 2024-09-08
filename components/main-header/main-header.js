@@ -13,7 +13,7 @@ function MainHeader() {
             <header className={classes.header}>
                 <Link href="/" className={classes.logo}>
                     <Image src={imageLogo} alt="food logo" priority />
-                    Next level food
+                    Recipe Hub
                 </Link>
                 <nav className={classes.nav}>
                     <ul>
