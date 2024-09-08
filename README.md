@@ -4,7 +4,7 @@ RecipeHub is a platform where foodies can share their favorite recipes and disco
 
 ![Tic Tac Toe Game Screenshot](public/RecipeHub.png)
 
-You can check live demo (https://tic-tac-toe-two-pink.vercel.app/)
+You can check live demo (https://recipehub-ohtg9eft4-riyazpts-projects.vercel.app/)
 
 ## Features
 
